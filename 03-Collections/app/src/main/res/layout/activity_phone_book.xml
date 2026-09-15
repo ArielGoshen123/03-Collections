@@ -18,7 +18,7 @@
         android:id="@+id/etName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="שם איש הקשר"
+        android:hint="שם בן אדם הקשר"
         android:inputType="textPersonName" />
 
     <EditText
